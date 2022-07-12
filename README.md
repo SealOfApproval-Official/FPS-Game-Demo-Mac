@@ -1,3 +1,3 @@
 # FPS-Game-Demo-Mac
 A FPS Game I made with Unity
-<bold>MAC DEVICES ONLY</bold>
+THIS WILL WORK ON MAC DEVICES ONLY
